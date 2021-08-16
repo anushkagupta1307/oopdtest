@@ -1,4 +1,4 @@
-package Assignment1;
+
 
 import java.util.ArrayDeque;
 import java.util.Deque;
@@ -19,7 +19,7 @@ import java.util.Scanner;
 4 2
 9 17 85 45
  */
-public class MaximumProfit {
+public class first {
 
     public static void main(String[] args){
 
